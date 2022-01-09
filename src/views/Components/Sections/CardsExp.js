@@ -29,9 +29,9 @@ export default function CardsExp() {
       <br />
       <div>
         <GridContainer justify="center">
-          <GridItem xs={12} sm={12} md={4}>
-            <Card plain>
-              <GridItem xs={12} sm={12} md={6}>
+          <GridItem xs={12} sm={12} md={4 }>
+            <Card>
+              <GridItem xs={12} sm={12} md={3}>
                 <img
                   src={actemp}
                   alt="..."
